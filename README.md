@@ -1,5 +1,7 @@
 # Peer-graded-assignment
 This data is the submission of the peer graded assignment
+
+
  FILES
   - CodeBook.md contains a codebook that describes the variables and the data that I worked with to clean my data
   - run_analysis.R performs the data prepareation for cleaning the data. The following steps were followed:
